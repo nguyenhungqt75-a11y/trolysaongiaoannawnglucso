@@ -3,4 +3,4 @@ google-generativeai
 Pillow
 pandas
 openpyxl
-py-thon docx
+python-docx
